@@ -2,7 +2,7 @@
 
 I'm **Nadilla**, a Tech Enthusiast from Indonesia.
 
-I'm primarily interested in remote **Web Development** job and currently just ended my work as a
+I'm primarily interested in remote **Web Development** job and currently just ended my job as a
 Barista at [**Navigasi Coffee**](https://www.instagram.com/navigasicoffee).
 
 📌 Previously, I was a Computer Science student at [**Pasundan University**](https://edurank.org/uni/pasundan-university) back in 2021.
