@@ -1,9 +1,9 @@
 ### hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Nadilla**, a Full-Stack Website Developer from Indonesia.
+I'm **Nadilla**, a Tech Enthusiast from Indonesia.
 
-I'm primarily interested in remote **Full-Stack Web Development** job and currently work as a
-Barista at [**Navigasi Coffee**](https://www.instagram.com/navigasicoffee). 
+I'm primarily interested in remote **Web Development** job and currently just ended my work as a
+Barista at [**Navigasi Coffee**](https://www.instagram.com/navigasicoffee).
 
 📌 Previously, I was a Computer Science student at [**Pasundan University**](https://edurank.org/uni/pasundan-university) back in 2021.
 
