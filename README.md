@@ -5,7 +5,7 @@ I'm **Nadilla**, a Tech Enthusiast from Indonesia.
 I'm primarily interested in remote **Web Development** job and currently just ended my job as a
 Barista at [**Navigasi Coffee**](https://www.instagram.com/navigasicoffee).
 
-📌 Previously, I was a Computer Science student at [**Pasundan University**](https://edurank.org/uni/pasundan-university) back in 2021.
+📌 Previously, I was a Computer Science student at [**Pasundan University**](https://edurank.org/uni/pasundan-university) back in 2021 and pause my edu to earn🙇🏻‍♀️.
 
 I'm fascinated by large-scale, high impact industries and am willing to be paid less for flexible remote work. I have contributed to the development of diverse platforms, including educational websites, e-commerce stores, and creating impactful user experiences and seamless functionality.
 
